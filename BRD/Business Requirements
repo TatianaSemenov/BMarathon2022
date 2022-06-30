@@ -1,2 +1,13 @@
+Requester(s): Marina Manulik
+Date: 06/26/2022
+Audience (intended users): Tatiana
+Geographical Impact: the USA
+Requested go live date: 08/26/2022
 
-Project Goal
+Project mission and goal
+Developing a content-based recommender system using the genres and/or description
+
+Business Justifications 
+A mechanism to ensure choosing a movie depend on specific genre and description
+
+Person ID|	Title	Imdb_score	|Imdb_id	|Type	|Actor Name	|Production_countries	|Genres	|Description	|Release-year	|Runtime
