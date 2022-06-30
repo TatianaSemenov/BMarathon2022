@@ -10,4 +10,4 @@ Developing a content-based recommender system using the genres and/or descriptio
 Business Justifications 
 A mechanism to ensure choosing a movie depend on specific genre and description
 
-Person ID|	Title	Imdb_score	|Imdb_id	|Type	|Actor Name	|Production_countries	|Genres	|Description	|Release-year	|Runtime
+Person ID|	Title|	Imdb_score	|Imdb_id	|Type	|Actor Name	|Production_countries	|Genres	|Description	|Release-year	|Runtime
